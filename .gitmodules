@@ -1,0 +1,3 @@
+[submodule "Makers/Projects/mastery-quizzes"]
+	path = Makers/Projects/mastery-quizzes
+	url = https://github.com/Buffstu/mastery-quizzes.git
